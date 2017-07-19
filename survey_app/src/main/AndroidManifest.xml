@@ -19,6 +19,8 @@
 
     <!-- this is defined in org.opendatakit.services -->
     <uses-permission android:name="org.opendatakit.database.RUN_DATABASE" />
+
+    <uses-permission android:name="android.permission.SET_ANIMATION_SCALE"/>
 	
     <supports-screens
         android:anyDensity="true"
